@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CSudoku" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Sudoku_Sama" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Sudoku_Sama" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="lib\absent_ligne_colonne.h" />
+		<Unit filename="lib\absent_region.h" />
+		<Unit filename="lib\affichage.h" />
+		<Unit filename="lib\afficher_espace.h" />
+		<Unit filename="lib\afficher_ligne.h" />
+		<Unit filename="lib\caractere.h" />
+		<Unit filename="lib\difficulteMenu.h" />
+		<Unit filename="lib\functions.h" />
+		<Unit filename="lib\gameMenu.h" />
+		<Unit filename="lib\gameSaved.h" />
+		<Unit filename="lib\jouer.h" />
+		<Unit filename="lib\joueur.h" />
+		<Unit filename="lib\menu.h" />
+		<Unit filename="lib\nombreCondidat.h" />
+		<Unit filename="lib\sudokuCharger.h" />
+		<Unit filename="lib\sudokuMaker.h" />
+		<Unit filename="lib\sudokuPuzzle.h" />
+		<Unit filename="lib\sudokuStarter.h" />
+		<Unit filename="lib\sudokuTornado.h" />
+		<Unit filename="lib\trouve.h" />
+		<Unit filename="lib\tuto.h" />
+		<Unit filename="lib\variables.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

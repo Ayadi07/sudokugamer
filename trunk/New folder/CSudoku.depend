@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1332426674 source:d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"lib\functions.h"
+
+1330117295 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\fonctions.h
+	"variables.h"
+	"affichage.h"
+	"trouve.h"
+	"sudoku_rise.h"
+
+1329940818 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\variables.h
+
+1330011270 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\affichage.h
+
+1330280711 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\trouve.h
+
+1330119459 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\sudoku_rise.h
+
+1330122729 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\menu.h
+	"variables.h"
+
+1332237825 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\fonctions.h
+	"variables.h"
+	"affichage.h"
+	"trouve.h"
+	"sudokuTornado.h"
+	"sudokuPuzzle.h"
+	"joueur.h"
+	"sudokuStarter.h"
+
+1332502733 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\variables.h
+
+1332504071 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\affichage.h
+	"afficher_espace.h"
+	"caractere.h"
+	"afficher_ligne.h"
+
+1332430698 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\trouve.h
+	"absent_region.h"
+	"absent_ligne_colonne.h"
+
+1332076397 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\sudoku_rise.h
+
+1332415906 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\menu.h
+
+1330552572 source:d:\x4l\half_life2\mini_projet_c\sdk\fox\sudoku_sama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"lib\fonctions.h"
+	"lib\menu.h"
+
+1330117295 d:\x4l\half_life2\mini_projet_c\sdk\fox\sudoku_sama\lib\fonctions.h
+	"variables.h"
+	"affichage.h"
+	"trouve.h"
+	"sudoku_rise.h"
+
+1330770809 d:\x4l\half_life2\mini_projet_c\sdk\fox\sudoku_sama\lib\variables.h
+
+1330771106 d:\x4l\half_life2\mini_projet_c\sdk\fox\sudoku_sama\lib\affichage.h
+
+1330280711 d:\x4l\half_life2\mini_projet_c\sdk\fox\sudoku_sama\lib\trouve.h
+
+1330770926 d:\x4l\half_life2\mini_projet_c\sdk\fox\sudoku_sama\lib\sudoku_rise.h
+
+1330771069 d:\x4l\half_life2\mini_projet_c\sdk\fox\sudoku_sama\lib\menu.h
+	"variables.h"
+
+1331993103 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\sudoku_puzzle.h
+	<time.h>
+
+1332458948 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\joueur.h
+	"difficulteMenu.h"
+	"jouer.h"
+
+1332415240 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\sudokustarter.h
+	"menu.h"
+	"gameMenu.h"
+	"sudokuMaker.h"
+	"tuto.h"
+
+1332416564 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\gamemenu.h
+
+1332455241 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\sudokumaker.h
+
+1332413815 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\tuto.h
+
+1331992635 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\absent_rigion.h
+
+1332430671 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\absent_ligne_colonne.h
+
+1331997099 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\afficher_espace.h
+
+1331997029 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\caractere.h
+
+1331996862 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\afficher_ligne.h
+
+1333400847 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\sudokupuzzle.h
+	<time.h>
+	"nombreCondidat.h"
+
+1332079760 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\nombrecondidat.h
+
+1332508581 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\sudokutornado.h
+	"sudokuCharger.h"
+
+1332458291 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\sudokucharger.h
+	"gameSaved.h"
+
+1332451780 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\gamesaved.h
+	<string.h>
+
+1332503824 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\difficultemenu.h
+
+1333446611 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\jouer.h
+
+1332241425 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\functions.h
+	"variables.h"
+	"affichage.h"
+	"trouve.h"
+	"sudokuTornado.h"
+	"sudokuPuzzle.h"
+	"joueur.h"
+	"sudokuStarter.h"
+
+1332502574 d:\x4l\half_life2\mini_projet_c\sdk\sudoku_sama\lib\absent_region.h
+
+1332426674 source:d:\logiciels\sudoku_sama12.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"lib\functions.h"
+
+1332241425 d:\logiciels\sudoku_sama12.2\lib\functions.h
+	"variables.h"
+	"affichage.h"
+	"trouve.h"
+	"sudokuTornado.h"
+	"sudokuPuzzle.h"
+	"joueur.h"
+	"sudokuStarter.h"
+
+1332502733 d:\logiciels\sudoku_sama12.2\lib\variables.h
+
+1332504071 d:\logiciels\sudoku_sama12.2\lib\affichage.h
+	"afficher_espace.h"
+	"caractere.h"
+	"afficher_ligne.h"
+
+1331997099 d:\logiciels\sudoku_sama12.2\lib\afficher_espace.h
+
+1331997029 d:\logiciels\sudoku_sama12.2\lib\caractere.h
+
+1331996862 d:\logiciels\sudoku_sama12.2\lib\afficher_ligne.h
+
+1332430698 d:\logiciels\sudoku_sama12.2\lib\trouve.h
+	"absent_region.h"
+	"absent_ligne_colonne.h"
+
+1333465103 d:\logiciels\sudoku_sama12.2\lib\absent_region.h
+
+1333461878 d:\logiciels\sudoku_sama12.2\lib\absent_ligne_colonne.h
+
+1333463857 d:\logiciels\sudoku_sama12.2\lib\sudokutornado.h
+	"sudokuCharger.h"
+
+1332458291 d:\logiciels\sudoku_sama12.2\lib\sudokucharger.h
+	"gameSaved.h"
+
+1332451780 d:\logiciels\sudoku_sama12.2\lib\gamesaved.h
+	<string.h>
+
+1333461712 d:\logiciels\sudoku_sama12.2\lib\sudokupuzzle.h
+	<time.h>
+	"nombreCondidat.h"
+
+1332079760 d:\logiciels\sudoku_sama12.2\lib\nombrecondidat.h
+
+1333463941 d:\logiciels\sudoku_sama12.2\lib\joueur.h
+	"difficulteMenu.h"
+	"jouer.h"
+
+1332503824 d:\logiciels\sudoku_sama12.2\lib\difficultemenu.h
+
+1333446611 d:\logiciels\sudoku_sama12.2\lib\jouer.h
+
+1332415240 d:\logiciels\sudoku_sama12.2\lib\sudokustarter.h
+	"menu.h"
+	"gameMenu.h"
+	"sudokuMaker.h"
+	"tuto.h"
+
+1332415906 d:\logiciels\sudoku_sama12.2\lib\menu.h
+
+1332416564 d:\logiciels\sudoku_sama12.2\lib\gamemenu.h
+
+1332455241 d:\logiciels\sudoku_sama12.2\lib\sudokumaker.h
+
+1332413815 d:\logiciels\sudoku_sama12.2\lib\tuto.h
+
+1332426674 source:d:\logiciels\csudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"lib\functions.h"
+
+1332241425 d:\logiciels\csudoku\lib\functions.h
+	"variables.h"
+	"affichage.h"
+	"trouve.h"
+	"sudokuTornado.h"
+	"sudokuPuzzle.h"
+	"joueur.h"
+	"sudokuStarter.h"
+
+1332502733 d:\logiciels\csudoku\lib\variables.h
+
+1332504071 d:\logiciels\csudoku\lib\affichage.h
+	"afficher_espace.h"
+	"caractere.h"
+	"afficher_ligne.h"
+
+1331997099 d:\logiciels\csudoku\lib\afficher_espace.h
+
+1331997029 d:\logiciels\csudoku\lib\caractere.h
+
+1331996862 d:\logiciels\csudoku\lib\afficher_ligne.h
+
+1332430698 d:\logiciels\csudoku\lib\trouve.h
+	"absent_region.h"
+	"absent_ligne_colonne.h"
+
+1333465103 d:\logiciels\csudoku\lib\absent_region.h
+
+1333461878 d:\logiciels\csudoku\lib\absent_ligne_colonne.h
+
+1333479033 d:\logiciels\csudoku\lib\sudokutornado.h
+	"sudokuCharger.h"
+
+1332458291 d:\logiciels\csudoku\lib\sudokucharger.h
+	"gameSaved.h"
+
+1333479150 d:\logiciels\csudoku\lib\gamesaved.h
+	<string.h>
+
+1333461712 d:\logiciels\csudoku\lib\sudokupuzzle.h
+	<time.h>
+	"nombreCondidat.h"
+
+1332079760 d:\logiciels\csudoku\lib\nombrecondidat.h
+
+1333463941 d:\logiciels\csudoku\lib\joueur.h
+	"difficulteMenu.h"
+	"jouer.h"
+
+1332503824 d:\logiciels\csudoku\lib\difficultemenu.h
+
+1333446611 d:\logiciels\csudoku\lib\jouer.h
+
+1332415240 d:\logiciels\csudoku\lib\sudokustarter.h
+	"menu.h"
+	"gameMenu.h"
+	"sudokuMaker.h"
+	"tuto.h"
+
+1332415906 d:\logiciels\csudoku\lib\menu.h
+
+1332416564 d:\logiciels\csudoku\lib\gamemenu.h
+
+1332455241 d:\logiciels\csudoku\lib\sudokumaker.h
+
+1332413815 d:\logiciels\csudoku\lib\tuto.h
+

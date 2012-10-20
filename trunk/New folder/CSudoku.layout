@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="lib\absent_ligne_colonne.h" open="0" top="0" tabpos="3">
+		<Cursor position="251" topLine="0" />
+	</File>
+	<File name="lib\absent_region.h" open="0" top="0" tabpos="4">
+		<Cursor position="326" topLine="0" />
+	</File>
+	<File name="lib\affichage.h" open="0" top="0" tabpos="8">
+		<Cursor position="1169" topLine="24" />
+	</File>
+	<File name="lib\caractere.h" open="0" top="0" tabpos="0">
+		<Cursor position="197" topLine="0" />
+	</File>
+	<File name="lib\difficulteMenu.h" open="0" top="0" tabpos="7">
+		<Cursor position="1331" topLine="0" />
+	</File>
+	<File name="lib\functions.h" open="0" top="0" tabpos="1">
+		<Cursor position="191" topLine="0" />
+	</File>
+	<File name="lib\gameMenu.h" open="0" top="0" tabpos="0">
+		<Cursor position="1005" topLine="0" />
+	</File>
+	<File name="lib\gameSaved.h" open="0" top="0" tabpos="0">
+		<Cursor position="1030" topLine="34" />
+	</File>
+	<File name="lib\jouer.h" open="0" top="0" tabpos="7">
+		<Cursor position="3805" topLine="120" />
+	</File>
+	<File name="lib\joueur.h" open="0" top="0" tabpos="4">
+		<Cursor position="463" topLine="12" />
+	</File>
+	<File name="lib\menu.h" open="0" top="0" tabpos="3">
+		<Cursor position="454" topLine="18" />
+	</File>
+	<File name="lib\nombreCondidat.h" open="0" top="0" tabpos="0">
+		<Cursor position="70" topLine="0" />
+	</File>
+	<File name="lib\sudokuCharger.h" open="0" top="0" tabpos="2">
+		<Cursor position="401" topLine="24" />
+	</File>
+	<File name="lib\sudokuMaker.h" open="0" top="0" tabpos="3">
+		<Cursor position="619" topLine="19" />
+	</File>
+	<File name="lib\sudokuPuzzle.h" open="0" top="0" tabpos="6">
+		<Cursor position="463" topLine="10" />
+	</File>
+	<File name="lib\sudokuStarter.h" open="0" top="0" tabpos="1">
+		<Cursor position="424" topLine="11" />
+	</File>
+	<File name="lib\sudokuTornado.h" open="0" top="0" tabpos="5">
+		<Cursor position="164" topLine="3" />
+	</File>
+	<File name="lib\trouve.h" open="0" top="0" tabpos="2">
+		<Cursor position="234" topLine="0" />
+	</File>
+	<File name="lib\tuto.h" open="0" top="0" tabpos="6">
+		<Cursor position="128" topLine="0" />
+	</File>
+	<File name="lib\variables.h" open="0" top="0" tabpos="6">
+		<Cursor position="596" topLine="18" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="1">
+		<Cursor position="138" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
