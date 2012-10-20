@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1350670996 source:c:\users\ahmed\sudokugamer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"lib\functions.h"
+
+1350670996 c:\users\ahmed\sudokugamer\lib\functions.h
+	"variables.h"
+	"affichage.h"
+	"trouve.h"
+	"sudokuTornado.h"
+	"sudokuPuzzle.h"
+	"joueur.h"
+	"sudokuStarter.h"
+
+1350670996 c:\users\ahmed\sudokugamer\lib\variables.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\affichage.h
+	"afficher_espace.h"
+	"caractere.h"
+	"afficher_ligne.h"
+
+1350670996 c:\users\ahmed\sudokugamer\lib\afficher_espace.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\caractere.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\afficher_ligne.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\trouve.h
+	"absent_region.h"
+	"absent_ligne_colonne.h"
+
+1350670996 c:\users\ahmed\sudokugamer\lib\absent_region.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\absent_ligne_colonne.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\sudokutornado.h
+	"sudokuCharger.h"
+
+1350670996 c:\users\ahmed\sudokugamer\lib\sudokucharger.h
+	"gameSaved.h"
+
+1350670996 c:\users\ahmed\sudokugamer\lib\gamesaved.h
+	<string.h>
+
+1350670996 c:\users\ahmed\sudokugamer\lib\sudokupuzzle.h
+	<time.h>
+	"nombreCondidat.h"
+
+1350670996 c:\users\ahmed\sudokugamer\lib\nombrecondidat.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\joueur.h
+	"difficulteMenu.h"
+	"jouer.h"
+
+1350670996 c:\users\ahmed\sudokugamer\lib\difficultemenu.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\jouer.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\sudokustarter.h
+	"menu.h"
+	"gameMenu.h"
+	"sudokuMaker.h"
+	"tuto.h"
+
+1350670996 c:\users\ahmed\sudokugamer\lib\menu.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\gamemenu.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\sudokumaker.h
+
+1350670996 c:\users\ahmed\sudokugamer\lib\tuto.h
+
