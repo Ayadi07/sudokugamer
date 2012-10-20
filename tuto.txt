@@ -1,0 +1,56 @@
+===============================================================================
+				SUDOKU Game ©
+===============================================================================
+				ESPRIT::3B1 
+				 2011/2012
+
+Realisee par :
+	AYADI Ahmed
+		&
+	BENHAJKACEM Nidhal
+  
+===============================================================================
+			    Comment Utiliser ?	
+===============================================================================
+**Navigation simple entre les menus a l'aide d'insertion des caractere, 
+majescule ou bien miniscules.
+**Vous pouvez naviger en avant ou en arriere.
+
+===============================================================================
+			    Comment Jouer ?	
+===============================================================================
+**Deux types de generation de parties:
+1)A partir d'un fichier ou vous avez deja enregistree des parties. Le choix est
+fait en tapant le numeros de la partie que vous souhaitez charger.
+2)A partir du generateur automatique et aléatoire des grilles sudoku et selon 
+un degre de difficulte choisi.
+
+**Trois niveaux de difficultee:
+1)Facile: 		18 cellules a completer.
+1)Moyenne: 		26 cellules a completer.
+1)Difficile: 	39 cellules a completer.
+
+**le remplissage des cellule est fait en inserant a chaque fois la ligne, 
+la colonne et le chiffre de 1 a 9.
+
+**Possibilite de retour en arriere et d'annuler a chaque fois une action.
+
+**Possibilite de quitter le jeux en cours en tappant 'q'. Un message sera 
+affiche pour savoir si vous voulez enregistrer votre jeux ou pas.
+
+===============================================================================
+				Regles du jeux
+===============================================================================
+**Trois Regle simple:
+
+Ne pas utiliser les numeros de 1 a 9 que:
+1)une seule fois sur une ligne.
+2)une seule fois sur une colonne.
+3)une seule fois sur une region.
+
+Simple mais.... :p
+Bonne chance !!!!
+===============================================================================
+				Fin tutorial ©
+===============================================================================
+
